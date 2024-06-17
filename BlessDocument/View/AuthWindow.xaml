@@ -1,0 +1,50 @@
+﻿<Window x:Class="BlessDocument.View.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlessDocument.View"
+        mc:Ignorable="d"
+                Title="AuthWindow" 
+        Height="630" Width="1095"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        MouseDown="Window_MoueDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="360"/>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="15"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="15"/>
+        </Grid.RowDefinitions>
+
+        <Frame Grid.Column="1" Grid.Row="1"
+               x:Name="AuthOrRegFrame" NavigationUIVisibility="Hidden"/>
+
+        <Image Grid.Column="3" Grid.Row="1" Source="/Resources/image_1.png"/>
+
+        <Label Grid.Column="3" Grid.Row="1"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               FontSize="48"
+               Foreground="#FF22476C"
+               Content="BlessDocument"
+               FontFamily="Magneto" Margin="140,498,0,0"/>
+
+        <Button Grid.Column="3"
+                Grid.Row="1"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Top"
+                Background="Transparent"
+                BorderThickness="0"
+                Content="✖"
+                Click="Click_Exit"/>
+    </Grid>
+</Window>

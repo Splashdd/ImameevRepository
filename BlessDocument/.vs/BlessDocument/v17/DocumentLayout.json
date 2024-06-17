@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|c:\\users\\radik\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\blessdocument\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\homewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\homewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\addnewarchivewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\addnewarchivewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\model\\blessdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:model\\blessdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\addnewarchivewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\addnewarchivewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\takeemailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\takeemailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\radik\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\view\\takeemailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38C7B5B-C503-43C8-8E06-C7937B792210}|BlessDocument.csproj|solutionrelative:view\\takeemailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\HomeWindow.xaml",
+              "RelativeDocumentMoniker": "View\\HomeWindow.xaml",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\HomeWindow.xaml",
+              "RelativeToolTip": "View\\HomeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T14:38:11.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewArchiveWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AddNewArchiveWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\AddNewArchiveWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AddNewArchiveWindow.xaml.cs",
+              "RelativeToolTip": "View\\AddNewArchiveWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAawDUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:14:36.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T14:41:35.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AuthPage.xaml.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\AuthPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AuthPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:26:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\AuthWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "View\\AuthWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:22:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\HomeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\HomeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\HomeWindow.xaml.cs",
+              "RelativeToolTip": "View\\HomeWindow.xaml.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAkwLcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:00:12.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "View\\AuthWindow.xaml",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AuthWindow.xaml",
+              "RelativeToolTip": "View\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T14:37:30.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TakeEmailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\TakeEmailWindow.xaml",
+              "RelativeDocumentMoniker": "View\\TakeEmailWindow.xaml",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\TakeEmailWindow.xaml",
+              "RelativeToolTip": "View\\TakeEmailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T14:38:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\RegPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RegPage.xaml.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\RegPage.xaml.cs",
+              "RelativeToolTip": "Pages\\RegPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:27:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddNewArchiveWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AddNewArchiveWindow.xaml",
+              "RelativeDocumentMoniker": "View\\AddNewArchiveWindow.xaml",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\AddNewArchiveWindow.xaml",
+              "RelativeToolTip": "View\\AddNewArchiveWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T14:40:11.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlessDB.Context.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Model\\BlessDB.Context.cs",
+              "RelativeDocumentMoniker": "Model\\BlessDB.Context.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Model\\BlessDB.Context.cs",
+              "RelativeToolTip": "Model\\BlessDB.Context.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:08:23.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegPage.xaml",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\RegPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RegPage.xaml",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\Pages\\RegPage.xaml",
+              "RelativeToolTip": "Pages\\RegPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T14:41:50.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T15:30:17.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\radik\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:29:51.048Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:30:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TakeEmailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\TakeEmailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\TakeEmailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\radik\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u0438\u043F\u043B\u043E\u043C\\BlessDocument\\View\\TakeEmailWindow.xaml.cs",
+              "RelativeToolTip": "View\\TakeEmailWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:22:57.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
